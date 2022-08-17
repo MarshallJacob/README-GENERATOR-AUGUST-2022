@@ -60,10 +60,6 @@ function readMeQuestions(){
     }
 ])};
 
-// TODO: Create a function to write README file
-// fs.writeFile("./generate/README.md", readMeGenerator(answers)); {
-// };
-
 // TODO: Create a function to initialize app
 async function init() {
     const answers = await readMeQuestions();
