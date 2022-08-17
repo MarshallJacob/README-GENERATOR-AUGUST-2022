@@ -33,7 +33,7 @@ function readMeQuestions(){
     {
         type: 'input',
         message: 'Please input test instructions:',
-        name: 'tests',
+        name: 'testing',
     },
     {
         type: 'checkbox',

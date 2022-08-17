@@ -19,7 +19,7 @@ function generateMarkdown(answers) {
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [Testing](#tests)
+- [Testing](#testing)
 - [License](#license)
 - [Questions](#userName)
 
@@ -36,7 +36,7 @@ ${answers.usage}
 ${answers.contributing}
 
 ## Testing
-${answers.tests}
+${answers.testing}
 
 ## License
 ${answers.license}
