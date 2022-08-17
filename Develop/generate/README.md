@@ -1,4 +1,4 @@
-# README-GENERATOR-AUGUST-2022
+# README-GEN-DEMO
 
 ## Table of Contents
 - [Description](#description)
@@ -10,10 +10,10 @@
 - [Questions](#userName)
 
 ## Description
-This application will enable the user to easily and quickly generate their own personalized README files. Af
+This is a test run for my README generator app.
 
 ## Installation
-After you clone the repository, Make sure to install the inquirer package!
+Make sure to install the inquirer package!
 
 ## Usage
 Easily create new README files for any new projects you create.
@@ -28,6 +28,7 @@ Test
 Academic
 
 ## Questions
+
 ### If you have any questions you can find me through
 
 Github [MarshallJacob](https://github.com/MarshallJacob)
